@@ -1,0 +1,60 @@
+<!doctype html>
+<html ⚡>
+<head>
+  <meta charset="utf-8">
+  <title>amp-form</title>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
+  <script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>
+
+  <link rel="canonical" href="https://ampbyexample.com/components/amp-form/">
+
+  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript>
+    <style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style>
+  </noscript>
+
+  <!--
+    Customize success or error messages by using `amp-form-submit-success` and `amp-form-submit-error` classes.
+  -->
+  <style amp-custom>
+    form.amp-form-submit-success [submit-success],
+    form.amp-form-submit-error [submit-error]{
+      margin-top: 16px;
+    }
+    form.amp-form-submit-success [submit-success] {
+      color: green;
+    }
+    form.amp-form-submit-error [submit-error] {
+      color: red;
+    }
+    form.amp-form-submit-success.hide-inputs > input {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <form method="POST" class="p2" action-xhr="./smtp.php" target="_top">
+    <p>Email check - Simple Form</p>
+    <div class="ampstart-input inline-block relative mb3">
+      <input type="text" placeholder="nome" name="nome">
+      <input type="email" placeholder="email" name="email">
+      <input type="tel" placeholder="telefone" name="telefone">
+      <input type="text" placeholder="endereco" name="endereco">
+      <input type="text" placeholder="numero" name="numero">
+      <input type="text" placeholder="test" name="test">
+    </div>
+    <div submit-success>
+      <template type="amp-mustache">
+        {{message}}
+      </template>
+    </div>
+    <div submit-error>
+      <template type="amp-mustache">
+        {{message}}
+      </template>
+    </div>
+    <input type="submit" value="OK" class="ampstart-btn caps">
+  </form>
+</body>
+</html>

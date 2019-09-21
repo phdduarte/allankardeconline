@@ -1,0 +1,888 @@
+<!doctype html>
+<html amp lang="en">
+<head>
+  <title>Vida Ativa Fitness</title>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+  <meta name="keywords" content=""/>
+  <meta name="description" content=""/>
+  <link rel="canonical" href="https://l.fitplaceinstitute.com/calcule-imc/">
+
+
+  <link href="https://fonts.googleapis.com/css?family=Gudea:400,400i,700" rel="stylesheet">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>
+  /*! Basscss | http://basscss.com | MIT License */.h1{font-size:2rem}.h2{font-size:1.5rem}.h3{font-size:1.25rem}.h4{font-size:1rem}.h5{font-size:.875rem}.h6{font-size:.75rem}.font-family-inherit{font-family:inherit}.font-size-inherit{font-size:inherit}.text-decoration-none{text-decoration:none}.bold{font-weight:700}.regular{font-weight:400}.italic{font-style:italic}.caps{text-transform:uppercase;letter-spacing:.2em}.left-align{text-align:left}.center{text-align:center}.right-align{text-align:right}.justify{text-align:justify}.nowrap{white-space:nowrap}.break-word{word-wrap:break-word}.line-height-1{line-height:1}.line-height-2{line-height:1.125}.line-height-3{line-height:1.25}.line-height-4{line-height:1.5}.list-style-none{list-style:none}.underline{text-decoration:underline}.truncate{max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.list-reset{list-style:none;padding-left:0}.inline{display:inline}.block{display:block}.inline-block{display:inline-block}.table{display:table}.table-cell{display:table-cell}.overflow-hidden{overflow:hidden}.overflow-scroll{overflow:scroll}.overflow-auto{overflow:auto}.clearfix:after,.clearfix:before{content:" ";display:table}.clearfix:after{clear:both}.left{float:left}.right{float:right}.fit{max-width:100%}.max-width-1{max-width:24rem}.max-width-2{max-width:32rem}.max-width-3{max-width:48rem}.max-width-4{max-width:64rem}.border-box{box-sizing:border-box}.align-baseline{vertical-align:baseline}.align-top{vertical-align:top}.align-middle{vertical-align:middle}.align-bottom{vertical-align:bottom}.m0{margin:0}.mt0{margin-top:0}.mr0{margin-right:0}.mb0{margin-bottom:0}.ml0,.mx0{margin-left:0}.mx0{margin-right:0}.my0{margin-top:0;margin-bottom:0}.m1{margin:.5rem}.mt1{margin-top:.5rem}.mr1{margin-right:.5rem}.mb1{margin-bottom:.5rem}.ml1,.mx1{margin-left:.5rem}.mx1{margin-right:.5rem}.my1{margin-top:.5rem;margin-bottom:.5rem}.m2{margin:1rem}.mt2{margin-top:1rem}.mr2{margin-right:1rem}.mb2{margin-bottom:1rem}.ml2,.mx2{margin-left:1rem}.mx2{margin-right:1rem}.my2{margin-top:1rem;margin-bottom:1rem}.m3{margin:2rem}.mt3{margin-top:2rem}.mr3{margin-right:2rem}.mb3{margin-bottom:2rem}.ml3,.mx3{margin-left:2rem}.mx3{margin-right:2rem}.my3{margin-top:2rem;margin-bottom:2rem}.m4{margin:4rem}.mt4{margin-top:4rem}.mr4{margin-right:4rem}.mb4{margin-bottom:4rem}.ml4,.mx4{margin-left:4rem}.mx4{margin-right:4rem}.my4{margin-top:4rem;margin-bottom:4rem}.mxn1{margin-left:-.5rem;margin-right:-.5rem}.mxn2{margin-left:-1rem;margin-right:-1rem}.mxn3{margin-left:-2rem;margin-right:-2rem}.mxn4{margin-left:-4rem;margin-right:-4rem}.ml-auto{margin-left:auto}.mr-auto,.mx-auto{margin-right:auto}.mx-auto{margin-left:auto}.p0{padding:0}.pt0{padding-top:0}.pr0{padding-right:0}.pb0{padding-bottom:0}.pl0,.px0{padding-left:0}.px0{padding-right:0}.py0{padding-top:0;padding-bottom:0}.p1{padding:.5rem}.pt1{padding-top:.5rem}.pr1{padding-right:.5rem}.pb1{padding-bottom:.5rem}.pl1{padding-left:.5rem}.py1{padding-top:.5rem;padding-bottom:.5rem}.px1{padding-left:.5rem;padding-right:.5rem}.p2{padding:1rem}.pt2{padding-top:1rem}.pr2{padding-right:1rem}.pb2{padding-bottom:1rem}.pl2{padding-left:1rem}.py2{padding-top:1rem;padding-bottom:1rem}.px2{padding-left:1rem;padding-right:1rem}.p3{padding:2rem}.pt3{padding-top:2rem}.pr3{padding-right:2rem}.pb3{padding-bottom:2rem}.pl3{padding-left:2rem}.py3{padding-top:2rem;padding-bottom:2rem}.px3{padding-left:2rem;padding-right:2rem}.p4{padding:4rem}.pt4{padding-top:4rem}.pr4{padding-right:4rem}.pb4{padding-bottom:4rem}.pl4{padding-left:4rem}.py4{padding-top:4rem;padding-bottom:4rem}.px4{padding-left:4rem;padding-right:4rem}.col{float:left}.col,.col-right{box-sizing:border-box}.col-right{float:right}.col-1{width:8.33333%}.col-2{width:16.66667%}.col-3{width:25%}.col-4{width:33.33333%}.col-5{width:41.66667%}.col-6{width:50%}.col-7{width:58.33333%}.col-8{width:66.66667%}.col-9{width:75%}.col-10{width:83.33333%}.col-11{width:91.66667%}.col-12{width:100%}@media (min-width:40em){.sm-col{float:left;box-sizing:border-box}.sm-col-right{float:right;box-sizing:border-box}.sm-col-1{width:8.33333%}.sm-col-2{width:16.66667%}.sm-col-3{width:25%}.sm-col-4{width:33.33333%}.sm-col-5{width:41.66667%}.sm-col-6{width:50%}.sm-col-7{width:58.33333%}.sm-col-8{width:66.66667%}.sm-col-9{width:75%}.sm-col-10{width:83.33333%}.sm-col-11{width:91.66667%}.sm-col-12{width:100%}}@media (min-width:52em){.md-col{float:left;box-sizing:border-box}.md-col-right{float:right;box-sizing:border-box}.md-col-1{width:8.33333%}.md-col-2{width:16.66667%}.md-col-3{width:25%}.md-col-4{width:33.33333%}.md-col-5{width:41.66667%}.md-col-6{width:50%}.md-col-7{width:58.33333%}.md-col-8{width:66.66667%}.md-col-9{width:75%}.md-col-10{width:83.33333%}.md-col-11{width:91.66667%}.md-col-12{width:100%}}@media (min-width:64em){.lg-col{float:left;box-sizing:border-box}.lg-col-right{float:right;box-sizing:border-box}.lg-col-1{width:8.33333%}.lg-col-2{width:16.66667%}.lg-col-3{width:25%}.lg-col-4{width:33.33333%}.lg-col-5{width:41.66667%}.lg-col-6{width:50%}.lg-col-7{width:58.33333%}.lg-col-8{width:66.66667%}.lg-col-9{width:75%}.lg-col-10{width:83.33333%}.lg-col-11{width:91.66667%}.lg-col-12{width:100%}}.flex{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex}@media (min-width:40em){.sm-flex{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex}}@media (min-width:52em){.md-flex{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex}}@media (min-width:64em){.lg-flex{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex}}.flex-column{-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column}.flex-wrap{-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap}.items-start{-webkit-box-align:start;-webkit-align-items:flex-start;-ms-flex-align:start;-ms-grid-row-align:flex-start;align-items:flex-start}.items-end{-webkit-box-align:end;-webkit-align-items:flex-end;-ms-flex-align:end;-ms-grid-row-align:flex-end;align-items:flex-end}.items-center{-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;-ms-grid-row-align:center;align-items:center}.items-baseline{-webkit-box-align:baseline;-webkit-align-items:baseline;-ms-flex-align:baseline;-ms-grid-row-align:baseline;align-items:baseline}.items-stretch{-webkit-box-align:stretch;-webkit-align-items:stretch;-ms-flex-align:stretch;-ms-grid-row-align:stretch;align-items:stretch}.self-start{-webkit-align-self:flex-start;-ms-flex-item-align:start;align-self:flex-start}.self-end{-webkit-align-self:flex-end;-ms-flex-item-align:end;align-self:flex-end}.self-center{-webkit-align-self:center;-ms-flex-item-align:center;align-self:center}.self-baseline{-webkit-align-self:baseline;-ms-flex-item-align:baseline;align-self:baseline}.self-stretch{-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch}.justify-start{-webkit-box-pack:start;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start}.justify-end{-webkit-box-pack:end;-webkit-justify-content:flex-end;-ms-flex-pack:end;justify-content:flex-end}.justify-center{-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center}.justify-between{-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between}.justify-around{-webkit-justify-content:space-around;-ms-flex-pack:distribute;justify-content:space-around}.content-start{-webkit-align-content:flex-start;-ms-flex-line-pack:start;align-content:flex-start}.content-end{-webkit-align-content:flex-end;-ms-flex-line-pack:end;align-content:flex-end}.content-center{-webkit-align-content:center;-ms-flex-line-pack:center;align-content:center}.content-between{-webkit-align-content:space-between;-ms-flex-line-pack:justify;align-content:space-between}.content-around{-webkit-align-content:space-around;-ms-flex-line-pack:distribute;align-content:space-around}.content-stretch{-webkit-align-content:stretch;-ms-flex-line-pack:stretch;align-content:stretch}.flex-auto{-webkit-box-flex:1;-webkit-flex:1 1 auto;-ms-flex:1 1 auto;flex:1 1 auto;min-width:0;min-height:0}.flex-none{-webkit-box-flex:0;-webkit-flex:none;-ms-flex:none;flex:none}.order-0{-webkit-box-ordinal-group:1;-webkit-order:0;-ms-flex-order:0;order:0}.order-1{-webkit-box-ordinal-group:2;-webkit-order:1;-ms-flex-order:1;order:1}.order-2{-webkit-box-ordinal-group:3;-webkit-order:2;-ms-flex-order:2;order:2}.order-3{-webkit-box-ordinal-group:4;-webkit-order:3;-ms-flex-order:3;order:3}.order-last{-webkit-box-ordinal-group:100000;-webkit-order:99999;-ms-flex-order:99999;order:99999}.relative{position:relative}.absolute{position:absolute}.fixed{position:fixed}.top-0{top:0}.right-0{right:0}.bottom-0{bottom:0}.left-0{left:0}.z1{z-index:1}.z2{z-index:2}.z3{z-index:3}.z4{z-index:4}.border{border-style:solid;border-width:1px}.border-top{border-top-style:solid;border-top-width:1px}.border-right{border-right-style:solid;border-right-width:1px}.border-bottom{border-bottom-style:solid;border-bottom-width:1px}.border-left{border-left-style:solid;border-left-width:1px}.border-none{border:0}.rounded{border-radius:3px}.circle{border-radius:50%}.rounded-top{border-radius:3px 3px 0 0}.rounded-right{border-radius:0 3px 3px 0}.rounded-bottom{border-radius:0 0 3px 3px}.rounded-left{border-radius:3px 0 0 3px}.not-rounded{border-radius:0}.hide{position:absolute;height:1px;width:1px;overflow:hidden;clip:rect(1px,1px,1px,1px)}@media (max-width:40em){.xs-hide{display:none}}@media (min-width:40em) and (max-width:52em){.sm-hide{display:none}}@media (min-width:52em) and (max-width:64em){.md-hide{display:none}}@media (min-width:64em){.lg-hide{display:none}}.display-none{display:none}
+
+  /* Add ur custom styles */
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+body {        
+    font-family: 'Montserrat', sans-serif;
+}
+@font-face{font-family:'exo';
+  src:url("fonts/exo1.woff2");font-weight: 400;
+}
+@font-face{font-family:'exo';
+src:url("fonts/exo.woff2");font-weight: 600;
+}
+.header {
+  background: #153065;
+}
+
+.container{padding: 10px 10px 20px 10px;}
+.container hr {
+  margin-bottom: 20px;width: 80px;opacity: .4;border-top: .1px solid;display: block;
+}
+
+.white{color: #fff;}
+.container h1 {
+  font-family: sans-serif;
+  font-size: 30px;    margin-bottom: 10px;margin-top: 0px;
+  line-height: 1.1;    text-transform: uppercase;font-weight: 400;
+}
+.container p {
+  font-size: 18px;margin-bottom: 40px;margin-top: 0px;
+  line-height: 22px;font-style: italic;font-weight: 400;
+  font-family: sans-serif;
+}
+.form-zone ul li {
+  float: left;
+  width: 50%;
+  position: relative;
+  background-clip: content-box;
+  text-align: center;
+}
+.form-zone ul li select {
+  text-transform: uppercase;
+  color: #fff;
+  width: 100%;
+  padding: 5px 35px 5px 2px;
+  font-size: 20px;
+  border: none;outline: none;
+  border-bottom: 1px solid #fff;
+  height: 34px;
+  background: transparent;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  font-size: 16px;
+  margin-bottom: 40px;
+}
+option
+{
+  color: #000;
+}
+.form-zone ul li.weight {
+  padding-left: 0px;padding-right: 20px;
+}
+.form-zone ul li.height {
+  padding-left: 20px;padding-right: 0px;
+}
+.form-zone ul li.height select {
+  float: right;
+}
+.form-zone ul li.height:before,.form-zone ul li.weight:before {
+  right: 2px;
+  top: 14px;
+  content: " ";
+  display: block;
+  position: absolute;
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-top: 6px solid #fff;
+  color: #fff;
+}
+.form-zone ul li.weight:before {right: 24px}
+.form-zone ul li.mobile-metrics {
+  width: 100%;
+  display: block;
+  color: #fff;
+}
+.form-zone ul li.mobile-metrics ul li {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+}
+.mobile-metrics ul li span {
+  background: rgba(244,151,30,1);
+  display: block;
+  width: 23px;
+  height: 23px;
+  float: left;
+  margin-right: 10px;
+}
+.mobile-metrics ul li p {
+  margin: 0;
+  text-align: initial;
+  font-style: initial;
+  font-size: 13px;
+  line-height: 13px;
+  display: block;
+  float: left;
+  width: calc(100% - 33px);
+  padding: 5px 20px;background: rgba(244,151,30,0.3);
+}
+.mobile-metrics ul li.imc-normal span {
+  background: rgba(84,184,71,1);
+}
+.mobile-metrics ul li.imc-normal p {
+  background: rgba(84,184,71,0.3);
+}
+.mobile-metrics ul li.imc-medium span {
+  background: rgba(177,167,53,1);
+}
+.mobile-metrics ul li.imc-medium p {
+  background: rgba(177,167,53,0.3);
+}
+.mobile-metrics ul li.imc-fat1 span {
+  background: rgba(244,151,30,1);
+}
+.mobile-metrics ul li.imc-fat1 p {
+  background: rgba(244,151,30,0.3);
+}
+.mobile-metrics ul li.imc-fat2 span {
+  background: rgba(210,111,42,1);
+}
+.mobile-metrics ul li.imc-fat2 p {
+  background: rgba(210,111,42,0.3);
+}
+.mobile-metrics ul li.imc-superfat span {
+  background: rgba(208,47,40,1);
+}
+.mobile-metrics ul li.imc-superfat p {
+  background: rgba(208,47,40,0.3);
+}
+.form-zone ul li.full div a.adc-consent-button,
+.form-zone ul li.full div input.adc-consent-button {
+  border: 0;
+  font-weight: bold;
+  background: #e02049;
+  width: 100%;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+  font-size: 21px;
+  padding: 20px 0 14px;
+  border-bottom: 6px solid #bc193c;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  outline: 0;
+  border-radius: 4px;
+  font-family: sans-serif;
+  height: 61px;
+}
+.form-zone ul li.full {
+  margin-top: 0px;width: 100%;
+}
+.how-works .container{padding-top: 20px;}
+
+.how-works .container span {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 0;font-size: 26px;    color: #2b393f;
+  display: block;
+}
+.how-works .container hr {
+  margin: 30px auto;
+  opacity: .6;
+  float: inherit;
+}
+.how-works .l1 amp-img,.how-works .l3 amp-img{width: 80px; margin:0 auto 5px;}
+.how-works .l2 amp-img{width: 100px; margin:0 auto 5px;}
+.how-works .l3 p{margin-bottom: 0px;}
+.how-works p{font-style: normal;}
+footer .container{    padding: 10px;}
+footer .container span {
+  width: 100%;
+  display: block;
+  text-align: center;
+  font-weight: 300;
+  font-size: 12px;    font-family: sans-serif;
+}
+.foo1{padding-bottom: 10px;}
+footer .container span a{text-decoration: none;    color: #000;}
+.form-zone{padding: 0 5px;}
+.mobile-metrics ul li.imc-low.active p {
+  background: rgba(244,151,30,1);
+}
+.mobile-metrics ul li.imc-normal.active p {
+  background: rgba(84,184,71,1);
+}
+.mobile-metrics ul li.imc-superfat.active p {
+  background: rgba(208,47,40,1);
+}
+.mobile-metrics ul li.imc-medium.active p {
+  background: rgba(177,167,53,1);
+}
+.mobile-metrics ul li.imc-fat2.active p {
+  background: rgba(210,111,42,1);
+}
+.mobile-metrics ul li.imc-fat1.active p {
+  background: rgba(244,151,30,1);
+}
+.outline-fit,.metrics{
+ display: none;
+}
+amp-lightbox {
+  background: rgba(0,0,0,.8);text-align: center;
+}
+.adc-consent-modal-close {
+  margin: 0 0 10px;
+  color: #CBCBCB;
+  font-size: 32px;
+  cursor: pointer;
+}
+.adc-consent-modal-title {
+  max-width: 440px;
+  margin: 0 auto 20px;
+  font-size: 25px;font-family: 'exo',sans-serif;
+  font-weight: bold;
+  text-align: center;line-height: normal;
+  text-transform: uppercase;color: #474747;
+}
+.container amp-lightbox p,.inbox-checkbox {
+  color: #474747;
+  font-family: "exo", sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  line-height: normal;margin-bottom: 0;
+}
+.inbox-checkbox a{color:inherit;}
+.lightbox{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+.adc-consent-modal-button {
+  display: block;font-family: "exo", sans-serif;
+  margin: 10px auto 0;
+  padding: 10px 60px 12px;
+  border-radius: 4px;
+  background: #23C787;
+  color: #FFFFFF;
+  font-size: 26px;
+  font-weight: bold;border: 0;
+  text-align: center;margin-top: 40px;
+}
+.adc-consent-modal-button-cancel {
+  padding: 12px 30px 14px;
+  border: 2px solid #A3A3A3;
+  background: none;display: inline-block;
+  color: #A3A3A3;
+  font-size: 20px;    margin: 10px auto 0;
+}
+#h-error,#w-error{
+  font-size: 10px;
+  color: red;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+}
+.light1{
+  position: relative;
+  width: 100%;
+  max-width: 785px;
+  padding: 20px 22px 50px;
+  border-radius: 4px;
+  background-color: #FFFFFF;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.33);
+}
+#consent-ui {
+  background: rgb(255, 255, 255);
+  padding: 15px 15px;border-top: 1px solid #ccc;
+}
+#consent-ui h3{
+  font-family: sans-serif;
+  font-size: 15px;
+  margin: 0;
+}
+#consent-ui div{
+  font-size: 13px;
+  font-weight: 400;
+  font-family: sans-serif;
+  padding-top: 10px;    text-align: justify;
+  color: #474747;
+}
+#consent-ui button{
+  display: block;
+  margin: 10px auto 0;
+  padding: 8px 0px 8px;
+  border-radius: 4px;
+  background: #00bce3;
+  color: #FFFFFF;
+  font-size: 15px;
+  text-align: center;
+  font-family: sans-serif;
+  letter-spacing: 0;
+  outline: 0;
+  border: 0;width: 180px;
+  box-shadow: 1px 1px 1px #ccc;
+}
+#consent-ui span{
+  background: url(images/checked.svg) no-repeat;
+  background-size: contain;
+  width: 15px;height: 15px;float: left;margin-left: 10px;
+}
+#consent-ui p a{color: #474747;font-size: 11px;text-decoration: none;font-family: sans-serif;}
+.backtop{
+  background-position: cover;
+}
+.overimage{
+  position: relative;
+  text-align: center;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.white{
+  color: #fff;
+}
+.social{
+
+}
+.social li{
+  display: inline-block;
+}
+.social li a{
+  color: #ffffff;
+  display: block;
+  position: relative;
+  width: 41px;
+  height: 61px;
+  line-height: 52px;
+  text-align: center;
+  font-size: 30px;
+  text-decoration: none;
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  -ms-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+.patern{
+  margin-right: 6rem;
+  margin-left: 6rem;
+}
+.botaoyellow{
+  background-color:rgb(204,204,0);
+  display: block;
+  max-width: 690px;
+  padding: 20px 85px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 100%;
+  line-height: 100%;
+  text-align: center;
+  border: none;
+}
+.botaoyellow a{
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #0000A0;
+  font-weight: 900;
+}
+.footer{
+  background: #153065;
+  color: white;
+}
+@media (min-width: 320px) and (max-width: 700px){
+  .patern{
+    margin-right: 1rem;
+    margin-left: 1rem;
+  }
+  .social li a{          
+    line-height: 10px;
+    font-size: 24px;
+    display:inline;
+  }
+  .social ul{ 
+    padding:0;
+  }
+}
+@media (min-width: 1100px){
+  .overimage amp-img{
+    height: 40rem;
+  }
+}
+
+@media (min-width: 480px){
+  .how-works .l1 amp-img{width: 125px;}
+  .how-works .l2 amp-img{width: 162px;}
+  .how-works .l3 amp-img{width: 127px;}
+  .container h1{font-size: 40px;line-height: 1}
+  .mob1{display: none;}
+  .mob2{display: block;}
+  .header .container hr{margin-top: 15px;    margin-bottom: 30px;}
+  div.container {
+    padding: 20px 10px;
+  }
+  .outline-fit,.metrics{
+   display: block;
+ }
+ .form-zone ul li.mobile-metrics.only-mobile{display: none;}
+}
+@media (min-width: 600px){
+  div.container {
+    width: 100%;
+    max-width: 1240px;
+    display: block;
+    margin: 0 auto;
+    padding: 40px 10px;
+  }
+  footer .container{ padding: 20px 10px;}
+}
+@media (min-width: 800px){
+  .how-works div.container ul li {
+    float: left;
+    width: 33.333%;
+  }
+}
+
+.cooks {
+  font-size: .7rem;
+}
+
+.form-section {
+  position: relative;
+  top: 0;
+  transform: none;
+  background-color: #fff;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.form-group #formSubmit {
+  background-color: #FFFFFF;
+  margin: 0 auto;
+  text-transform: uppercase;
+  width: 100%;
+  color: #3062aecc;
+  display: block;
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+  font-weight: 500;
+  margin-bottom: 0;
+  padding: 12px;
+  margin-bottom: 0;
+  border: 0;
+  outline: 0;
+}
+.form-section p {
+  margin-bottom: 20px;
+  margin-top: 10px;
+  font-weight: 300;
+  line-height: 1.2em;
+  color: #fff;
+  letter-spacing: 0;
+  font-size: 14px;
+}
+
+.form-group {
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.form-control {
+  display: block;
+  width: 100%;
+  padding: 0.375rem 0.75rem;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  border-color: #FFFFFF;
+  border-radius: 0.3rem;
+  font-size: 12px;
+}
+
+.form-group span {
+  position: absolute;
+  color: rgba(48, 98, 174, 0.8);
+  font-size: 24px;
+  line-height: 36px;
+  right: 12px;
+  top: 1px;
+}
+</style>
+<script async src="https://cdn.ampproject.org/v0.js"></script>
+<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+<script async custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js"></script>
+<script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
+<script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>
+<script async custom-element="amp-list" src="https://cdn.ampproject.org/v0/amp-list-0.1.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+</head>
+<body>
+  <amp-analytics data-block-on-consent type="googleanalytics">
+    <script type="application/json">
+      {
+        "vars": {
+        "account": ""
+      },
+      "triggers": {
+      "trackPageview": {
+      "on": "visible",
+      "request": "pageview"
+    }
+  }
+}
+</script>
+</amp-analytics>
+<div class="overimage center">
+  <amp-img src="./images/barriga-tanquinho-em-pouco-tempo.jpg" width="300" height="150" layout="responsive" alt=""></amp-img>
+  <div class="centered white">
+    <h2>Logo</h2>
+    <p>Tenha uma vida saúdavel e um corpo perfeito</p>
+    <div class="social">
+     <ul>
+      <li><a href=""><i class="fab fa-twitter"></i></a></li>
+      <li><a href=""><i class="fab fa-facebook-f"></i></a></li>
+      <li><a href=""><i class="fab fa-google-plus-g"></i></a></li>
+      <li><a href=""><i class="fab fa-pinterest"></i></a></li>
+      <li><a href=""><i class="fab fa-instagram"></i></a></li>
+      <li><a href=""><i class="fab fa-youtube"></i></a></li>
+    </ul>
+  </div>
+</div> 
+</div>
+<div class="patern">
+  <div class="clearfix">
+    <div class="sm-col sm-col-12 md-col-6 lg-col-6">
+      <div class="mt3">
+        <amp-img src="./images/apple_siri_whatsapp_2-600x426.jpg" width="300" height="150" layout="responsive" alt=""></amp-img>
+      </div>
+    </div>
+    <div class="sm-col sm-col-12 md-col-6 lg-col-6">
+      <div class="m3">
+        <form method="post" action-xhr="https://www.bancoinvest.pt/UtilsHandler.ashx" target="_top">
+          <input type="hidden" name="campanha" value="InvestARPPRAMP" />
+          <input type="hidden" name="ismobile" value="1" />
+          <input type="hidden" name="func" value="1" />
+          <input type="hidden" name="referrer" />
+
+          <div class="uk-scrollspy-init-inview">
+            <div style="padding:1em;">
+              <div class="form-group has-feedback">
+                <input type="text" class="form-control" placeholder="Nome" name="nome"
+                style="border: 1px solid #ccc;" required>
+                <span class="form-control-feedback" style="color: #5b8093;">👤</span>
+              </div>
+              <div class="form-group has-feedback">
+                <input type="text" class="form-control" placeholder="E-mail" name="mail"
+                style="border: 1px solid #ccc;" required>
+                <span class="form-control-feedback" style="color: #5b8093;">✉</span>
+              </div>
+              <div class="form-group  has-feedback">
+                <input type="text" maxlength="9" class="form-control" placeholder="Celular"
+                name="telef" style="border: 1px solid #ccc;" required> <span class="form-control-feedback"
+                style="color: #5b8093;">📞</span> </div>
+                <div class="mail_message" style="margin-top: 0px;">&nbsp;</div>
+                <div class="form-group  has-feedback">
+                  <input type="submit" name="formSubmit" id="formSubmit" class="btn" value="Enviar"
+                  style="background-color:#95adb9;color:#fff;border:2px solid #fff;">
+                </div>
+              </div>
+              <div submit-success>
+                <template type="amp-mustache">
+                  Obrigado, seus dados foram enviados com sucesso!
+                </template>
+              </div>
+              <div submit-error>
+                <template type="amp-mustache">
+                  Não foi possível enviar seus dados!
+                </template>
+              </div>
+              <div class="mail_message">&nbsp;</div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+    <div class="clearfix">
+      <div class="sm-col sm-col-12 md-col-6 lg-col-6">
+        <div class="m2">
+          <h2>Entre em contato conosco</h2>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+          proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+          <button class="botaoyellow">
+            <a class="" href="">Quero conhecer a clinica</a>
+          </button>
+        </div>
+      </div>
+      <div class="sm-col sm-col-12 md-col-3 lg-col-3">
+        <div class="m2">
+          <amp-img src="./images/menina.jpg" width="300" height="300" layout="responsive" alt=""></amp-img>
+        </div>
+      </div>
+
+      <div class="sm-col sm-col-12 md-col-3 lg-col-3">
+        <div class="m2">
+          <amp-img src="./images/menina2.jpg" width="300" height="300" layout="responsive" alt=""></amp-img>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="how-works clearfix">
+    <div class="container">
+      <span>
+        MOTIVO PARA ESCOLHER A NOSSA CLÍNICA
+      </span>
+      <hr>
+      <ul class="list-reset m0 center">
+        <li class="l1">
+          <amp-img src="https://d13sauvqul3gw9.cloudfront.net/284020d0a09913c5c1784ac25d6a7208032ea07b.png" width="80" height="86" layout="responsive" alt=""></amp-img>
+          <p>
+            SUPORTE ESPECIALIZADO
+          </p>
+        </li>
+        <li class="l2">
+          <amp-img src="https://d13sauvqul3gw9.cloudfront.net/98431e2d781ff5625092337b41fe7d3678c5f665.png" width="100" height="83" layout="responsive" alt=""></amp-img>
+          <p>
+            EXCELENTE CUSTO-BENEFICIO
+          </p>
+        </li>
+        <li class="l3">
+          <amp-img src="https://d13sauvqul3gw9.cloudfront.net/4ddda74bf95eb31ce2393ce8e8f3646c9b457518.png" width="80" height="85" layout="responsive" alt=""></amp-img>
+          <p>
+            MAIS DE 1 TONELADA DE PESO ELIMINADOS!!
+          </p>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class="header">
+    <div class="container white">
+      <div class="form-zone clearfix">
+        <form action="https://l.vidaativa.pt/fitplaceinstitute/2" id="form" method="get" target="_top">
+          <ul class="list-reset m0">
+            <li class="weight">
+              <select name="weight" id="weight" on="change:AMP.setState({weight: event.value})">
+                <option value="" style="color: #fff;">Peso</option>
+                <option value="40">40 kg</option>
+                <option value="41">41 kg</option>
+                <option value="42">42 kg</option>
+                <option value="43">43 kg</option>
+                <option value="44">44 kg</option>
+                <option value="45">45 kg</option>
+                <option value="46">46 kg</option>
+                <option value="47">47 kg</option>
+                <option value="48">48 kg</option>
+                <option value="49">49 kg</option>
+                <option value="50">50 kg</option>
+                <option value="51">51 kg</option>
+                <option value="52">52 kg</option>
+                <option value="53">53 kg</option>
+                <option value="54">54 kg</option>
+                <option value="55">55 kg</option>
+                <option value="56">56 kg</option>
+                <option value="57">57 kg</option>
+                <option value="58">58 kg</option>
+                <option value="59">59 kg</option>
+                <option value="60">60 kg</option>
+                <option value="61">61 kg</option>
+                <option value="62">62 kg</option>
+                <option value="63">63 kg</option>
+                <option value="64">64 kg</option>
+                <option value="65">65 kg</option>
+                <option value="66">66 kg</option>
+                <option value="67">67 kg</option>
+                <option value="68">68 kg</option>
+                <option value="69">69 kg</option>
+                <option value="70">70 kg</option>
+                <option value="71">71 kg</option>
+                <option value="72">72 kg</option>
+                <option value="73">73 kg</option>
+                <option value="74">74 kg</option>
+                <option value="75">75 kg</option>
+                <option value="76">76 kg</option>
+                <option value="77">77 kg</option>
+                <option value="78">78 kg</option>
+                <option value="79">79 kg</option>
+                <option value="80">80 kg</option>
+                <option value="81">81 kg</option>
+                <option value="82">82 kg</option>
+                <option value="83">83 kg</option>
+                <option value="84">84 kg</option>
+                <option value="85">85 kg</option>
+                <option value="86">86 kg</option>
+                <option value="87">87 kg</option>
+                <option value="88">88 kg</option>
+                <option value="89">89 kg</option>
+                <option value="90">90 kg</option>
+                <option value="91">91 kg</option>
+                <option value="92">92 kg</option>
+                <option value="93">93 kg</option>
+                <option value="94">94 kg</option>
+                <option value="95">95 kg</option>
+                <option value="96">96 kg</option>
+                <option value="97">97 kg</option>
+                <option value="98">98 kg</option>
+                <option value="99">99 kg</option>
+                <option value="100">100 kg</option>
+                <option value="101">101 kg</option>
+                <option value="102">102 kg</option>
+                <option value="103">103 kg</option>
+                <option value="104">104 kg</option>
+                <option value="105">105 kg</option>
+                <option value="106">106 kg</option>
+                <option value="107">107 kg</option>
+                <option value="108">108 kg</option>
+                <option value="109">109 kg</option>
+                <option value="110">110 kg</option>
+                <option value="111">111 kg</option>
+                <option value="112">112 kg</option>
+                <option value="113">113 kg</option>
+                <option value="114">114 kg</option>
+                <option value="115">115 kg</option>
+                <option value="116">116 kg</option>
+                <option value="117">117 kg</option>
+                <option value="118">118 kg</option>
+                <option value="119">119 kg</option>
+                <option value="120">120 kg</option>
+              </select>
+              <p id="w-error" hidden><span [class]="weight?'hide':'show'">Please fill out this field.</span></p>
+              </li>
+              <li class="height">
+                <select name="height" id="height" on="change:AMP.setState({height: event.value})">
+                  <option value="" style="color: #fff;">Altura</option>
+                  <option value="140">140 cm</option>
+                  <option value="141">141 cm</option>
+                  <option value="142">142 cm</option>
+                  <option value="143">143 cm</option>
+                  <option value="144">144 cm</option>
+                  <option value="145">145 cm</option>
+                  <option value="146">146 cm</option>
+                  <option value="147">147 cm</option>
+                  <option value="148">148 cm</option>
+                  <option value="149">149 cm</option>
+                  <option value="150">150 cm</option>
+                  <option value="151">151 cm</option>
+                  <option value="152">152 cm</option>
+                  <option value="153">153 cm</option>
+                  <option value="154">154 cm</option>
+                  <option value="155">155 cm</option>
+                  <option value="156">156 cm</option>
+                  <option value="157">157 cm</option>
+                  <option value="158">158 cm</option>
+                  <option value="159">159 cm</option>
+                  <option value="160">160 cm</option>
+                  <option value="161">161 cm</option>
+                  <option value="162">162 cm</option>
+                  <option value="163">163 cm</option>
+                  <option value="164">164 cm</option>
+                  <option value="165">165 cm</option>
+                  <option value="166">166 cm</option>
+                  <option value="167">167 cm</option>
+                  <option value="168">168 cm</option>
+                  <option value="169">169 cm</option>
+                  <option value="170">170 cm</option>
+                  <option value="171">171 cm</option>
+                  <option value="172">172 cm</option>
+                  <option value="173">173 cm</option>
+                  <option value="174">174 cm</option>
+                  <option value="175">175 cm</option>
+                  <option value="176">176 cm</option>
+                  <option value="177">177 cm</option>
+                  <option value="178">178 cm</option>
+                  <option value="179">179 cm</option>
+                  <option value="180">180 cm</option>
+                  <option value="181">181 cm</option>
+                  <option value="182">182 cm</option>
+                  <option value="183">183 cm</option>
+                  <option value="184">184 cm</option>
+                  <option value="185">185 cm</option>
+                  <option value="186">186 cm</option>
+                  <option value="187">187 cm</option>
+                  <option value="188">188 cm</option>
+                  <option value="189">189 cm</option>
+                  <option value="190">190 cm</option>
+                  <option value="191">191 cm</option>
+                  <option value="192">192 cm</option>
+                  <option value="193">193 cm</option>
+                  <option value="194">194 cm</option>
+                  <option value="195">195 cm</option>
+                  <option value="196">196 cm</option>
+                  <option value="197">197 cm</option>
+                  <option value="198">198 cm</option>
+                  <option value="199">199 cm</option>
+                  <option value="200">200 cm</option>
+                </select>
+                <p id="h-error" hidden><span [class]="height?'hide':'show'">Please fill out this field.</span></p>
+                </li>
+                <li class="mobile-metrics">
+                  <ul class="list-reset m0">
+                    <li class="imc-low" [class]="(round(((weight / ((weight&&height?height:'')*(weight&&height?height:''))) * 10000) * 10) / 10)<=18.5?'imc-low active':'imc-low inactive'">
+                      <span></span>
+                      <p>&lt; 18,5. Baixo peso</p>
+                    </li>
+                    <li class="imc-normal" [class]="((round(((weight / (height*height)) * 10000) * 10) / 10)>18.5 && (round(((weight / (height*height)) * 10000) * 10) / 10)<24.9)?'imc-normal active':'imc-normal inactive'">
+                      <span></span>
+                      <p>18,5-24,9. Normoponderal</p>
+                    </li>
+                    <li class="imc-medium" [class]="((round(((weight / (height*height)) * 10000) * 10) / 10)>=25 && (round(((weight / (height*height)) * 10000) * 10) / 10)< 29.9)?'imc-medium active':'imc-medium inactive'">
+                      <span></span>
+                      <p>25-29,9. Pré-obesidade</p>
+                    </li>
+                    <li class="imc-fat1" [class]="((round(((weight / (height*height)) * 10000) * 10) / 10)>=30 && (round(((weight / (height*height)) * 10000) * 10) / 10)<34.9)?'imc-fat1 active':'imc-fat1 inactive'">
+                      <span></span>
+                      <p>30-34,9. Obesidade, grau I</p>
+                    </li>
+                    <li class="imc-fat2" [class]="((round(((weight / (height*height)) * 10000) * 10) / 10)>35 && (round(((weight / (height*height)) * 10000) * 10) / 10)<39.9)?'imc-fat2 active':'imc-fat2 inactive'">
+                      <span></span>
+                      <p>35-39,9. Obesidade, grau II</p>
+                    </li>
+                    <li class="imc-superfat" [class]="(round((((weight&&height?weight:'') / (height*height)) * 10000) * 10) / 10)>40?'imc-superfat active':'imc-superfat inactive'">
+                      <span></span>
+                      <p>&gt; 40. Obesidade mórbida</p>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div class="">
+        <amp-iframe width="600" 
+        height="200"
+        title="Google map pin on Googleplex, Mountain View CA"
+        layout="responsive"
+        sandbox="allow-scripts allow-same-origin allow-popups"
+        frameborder="0"
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d646.5256999016555!2d-46.640450529818935!3d-23.55760720150623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59ae46553b85%3A0xfc2328c8b9a3aaf7!2sTribunal+de+Justi%C3%A7a+do+Estado+de+S%C3%A3o+Paulo!5e0!3m2!1spt-BR!2sbr!4v1551379443870">
+        </amp-iframe>
+      </div>  
+      <footer class="footer">
+        <div class="container clearfix">
+          <span class="foo1">
+            CLINICA DE SAÚDE E ALIMENTAÇÃO © Copyright 2019 - By PDWebDesign   LOGO DA CLINICA
+          </span>
+        </div>
+      </footer>
+  </body>
+</html>
